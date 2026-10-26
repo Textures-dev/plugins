@@ -3,9 +3,22 @@
   "displayName": "Textures",
   "version": "1.0.0",
   "description": "Hover textures, animated backgrounds and brand textures from textures.dev: search the catalog, install one file with the shadcn command, place it. Skill, MCP server and the /textures:texture command.",
-  "author": { "name": "Textures", "url": "https://textures.dev" },
+  "author": {
+    "name": "Textures",
+    "url": "https://textures.dev"
+  },
   "homepage": "https://textures.dev/agents",
   "repository": "https://github.com/Textures-dev/plugins",
   "license": "MIT",
-  "keywords": ["textures", "hover", "motion", "shadcn", "react", "design"]
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://textures.dev/legal/privacy",
+  "termsOfServiceUrl": "https://textures.dev/legal/terms",
+  "keywords": [
+    "textures",
+    "hover",
+    "motion",
+    "shadcn",
+    "react",
+    "design"
+  ]
 }
