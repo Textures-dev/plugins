@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "textures": { "type": "http", "url": "https://textures.dev/mcp" }
+  }
+}

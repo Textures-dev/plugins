@@ -1,0 +1,12 @@
+{
+  "name": "textures",
+  "description": "Textures (textures.dev): hover textures, animated backgrounds and brand textures for agents and websites.",
+  "owner": { "name": "Textures", "url": "https://textures.dev" },
+  "plugins": [
+    {
+      "name": "textures",
+      "source": "./plugins/textures",
+      "description": "Search, install and place Textures from Claude Code: the Textures skill, the textures.dev MCP server and the /textures:texture command."
+    }
+  ]
+}
